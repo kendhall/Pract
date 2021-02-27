@@ -1,0 +1,52 @@
+h3{
+    text-align: center; 
+}
+.header{
+     text-align: center;
+    background-color: darkturquoise;
+   position: relative; 
+
+    
+}
+
+.team-builder{
+    height: 200px;
+    width: 250px; 
+    background-color:antiquewhite;
+    margin:auto; 
+    text-align: left; 
+    position:relative;
+    
+    left: auto;
+    right: auto;
+}
+.supervisor{
+    height: 200px;
+    width: 250px; 
+    background-color:antiquewhite;
+    margin:auto; 
+    text-align: left; 
+    left: auto;
+    right: auto;
+    position:relative;
+}
+.calculator{
+    height: 200px;
+    width: 250px; 
+    background-color:antiquewhite;
+    margin:auto; 
+    text-align: left; 
+    left: auto;
+    right: auto;
+    position:absolute;
+}
+.karma{
+    height: 200px;
+    width: 250px; 
+    background-color:antiquewhite;
+    margin:auto; 
+    text-align: left; 
+     left: auto;
+    right: auto;
+    position:relative;
+}
